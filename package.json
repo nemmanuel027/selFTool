@@ -1,0 +1,16 @@
+{
+  "name": "mayday",
+  "version": "1.0.0",
+  "description": "mayDay tests",
+  "main": "test01.js",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "selenium-webdriver": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test01"
+  },
+  "author": "Emmanuel N",
+  "license": "ISC"
+}
